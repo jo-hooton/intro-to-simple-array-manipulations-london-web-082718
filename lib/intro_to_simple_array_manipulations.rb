@@ -7,5 +7,5 @@ def using_unshift(neighborhoods_in_northwest_brooklyn, new_neighborhood)
 end
 
 def using_pop
-  great_hits_of_the_nineties.pop
+  @great_hits_of_the_nineties.pop
 end
